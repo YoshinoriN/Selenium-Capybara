@@ -6,5 +6,6 @@ source 'http://production.cf.rubygems.org' do
   gem "selenium-webdriver", "3.0.1"
 end
 
+gem "rake_shared_context", "0.3.0"
 gem "awesome_print", "1.7.0"
 gem "pry", "0.10.4"
