@@ -1,0 +1,7 @@
+# coding: utf-8
+
+class TopPage < BasePage
+  def send_page
+    @cp.visit "/"
+  end
+end
